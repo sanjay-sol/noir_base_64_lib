@@ -1,6 +1,6 @@
 [package]
 name = "noir_base_64"
-type = "bin"
+type = "lib"
 authors = [""]
 
 [dependencies]
